@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">खर्च </string>
+    <string name="Item_Name"> वस्तु </string>
+    <string name="Amount">रकम</string>
+    <string name="add_Button"> राशि जोड़ें </string>
+
+</resources>
