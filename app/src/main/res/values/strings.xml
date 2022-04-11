@@ -3,5 +3,8 @@
     <string name="Item_Name">Item Name</string>
     <string name="Amount">Amount</string>
     <string name="add_Button">Add Spend</string>
+<!--
+    <string name="add_Button_should_be_present_in_sprint3">Add Spend</string>
+-->
 
 </resources>
