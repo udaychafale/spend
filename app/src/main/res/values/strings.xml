@@ -10,4 +10,8 @@
  <!--   <string name="add_Button">new changes in sprint3 this changes we have to
     merge in sprint2</string>
 -->
+    
+    <!--
+    <string name="add_Button_should_be_present_in_sprint2">new change to test git pull and fetch</string>
+-->
 </resources>
